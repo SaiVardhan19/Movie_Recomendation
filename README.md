@@ -90,7 +90,6 @@ The following tools and libraries are used in this project:
 - **NumPy**: For numerical operations and vector manipulations.
 - **Pandas**: To manage and preprocess the dataset.
 - **Scikit-Learn**: For clustering (K-means), Label Encoding, and cosine similarity calculations.
-- **Matplotlib/Seaborn**: For visualizing data and clusters.
 
 ---
 
